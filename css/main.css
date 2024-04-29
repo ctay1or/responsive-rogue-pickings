@@ -207,31 +207,25 @@ body {
 }
 
 header .content-wrapper {
-	width: 1200px;
 	justify-content: space-between;
+	align-items: center;
+	padding: 20px 0;
 }
 
 header h1 {
-	width: 50%;
-	padding: 38px 0 20px 0;
-	border-bottom: 0;
+	width: 30%;
+	padding: 0;
+	border-bottom: none;
 	text-align: left;
-	align-items: center;
 }
 
 header nav {
 	width: 21%;
-	padding: 38px 0 20px 0;
-	align-items: center;
 }
 
 header nav ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
 	display: flex;
 	justify-content: space-between;
-
 }
 
 }
